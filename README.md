@@ -47,4 +47,5 @@ The shell handles command line input, including arguements, without the use of m
 All files were created and compiled on `Ubuntu 14.04.4 LTS` using `GCC 4.8.4` with the following flags: `-Wall -Werror -Wextra -pedantic`
 
 ### Authors
-* Kidus Dawit Getachew [Github:kidusdawit14]
+* Kaleab Samuel
+* Yeabsira Tilahun
